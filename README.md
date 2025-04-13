@@ -79,8 +79,8 @@ Welcome to my GitHub! I'm a cybersecurity enthusiast with a passion for securing
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Email: your.email@example.com
+- 🔗 [LinkedIn] (Coming Soon)
+- 📧 Email: bloomingtearscsa@gmail.com
 
 ---
 
