@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Conor
+# 👋 Hi there, I'm Brendan
 
 Welcome to my GitHub! I'm a cybersecurity enthusiast with a passion for securing systems and solving complex security challenges. I recently earned the **Google Cybersecurity Professional Certificate**, where I gained hands-on experience in identifying risks, detecting threats, and responding to incidents using industry-standard tools and practices.
 
